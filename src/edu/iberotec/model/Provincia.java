@@ -37,7 +37,22 @@ public enum Provincia {
     CHOTA("Chota",Departamento.CAJAMARCA),
     SAN_IGNACIO("San Ignacio",Departamento.CAJAMARCA),
     CAJAMARCA("Cajamarca",Departamento.CAJAMARCA),
-    CUTERVO("Cutervo",Departamento.CAJAMARCA),;
+    CUTERVO("Cutervo",Departamento.CAJAMARCA)
+    //tumbes
+    //arequipa
+    //la libertad
+    //huancavelica
+    //cuzco
+    //madre de dios
+    //loreto
+    //ica
+    //piura
+    //trujillo
+    //tacna
+    //moquegua
+    //apurimac
+    //carro de pasco
+    
     /*
     private final String nombre;
     private final Departamento depa;
