@@ -10,13 +10,14 @@ package edu.iberotec.model;
  * @author ROLANDO_GUADALUPE
  */
 public enum Provincia {
-
+    //ancash
     HUARAZ("Huaraz", Departamento.ANCASH),
     HUAYLAS("Caraz",Departamento.ANCASH),
     CARHUAZ("Carhuaz", Departamento.ANCASH),
     YUNGAY("Yungay",Departamento.ANCASH),
     PALLASCA("Pallasca", Departamento.ANCASH),
     
+    //lima
     HUARAL("Huaral",Departamento.LIMA),
     CAÑETE("Cañete",Departamento.LIMA),
     HUAURA("Huaura",Departamento.LIMA),
@@ -24,14 +25,19 @@ public enum Provincia {
     CANTA("Canta",Departamento.LIMA),
     
    
-    
+    //huanuco
     AMBO("Ambo",Departamento.HUANUCO),
     DOS_DE_MAYO("Dos De Mayo",Departamento.HUANUCO),
     LEONCIO_PRADO("Leoncio Prado",Departamento.HUANUCO),
     HUAMALIES("Huamalies",Departamento.HUANUCO),
-    YAROWILLCA("Yarowillca",Departamento.HUANUCO);
+    YAROWILLCA("Yarowillca",Departamento.HUANUCO),
     
-    
+    //cajamarca
+    SANTA_CRUZ("Santa Cruz",Departamento.CAJAMARCA),
+    CHOTA("Chota",Departamento.CAJAMARCA),
+    SAN_IGNACIO("San Ignacio",Departamento.CAJAMARCA),
+    CAJAMARCA("Cajamarca",Departamento.CAJAMARCA),
+    CUTERVO("Cutervo",Departamento.CAJAMARCA),;
     /*
     private final String nombre;
     private final Departamento depa;
